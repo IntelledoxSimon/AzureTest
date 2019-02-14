@@ -1,3 +1,1 @@
-# BankAPI
-
-Quoting Storing Retrieving
+Azure Training
